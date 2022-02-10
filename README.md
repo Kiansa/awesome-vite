@@ -46,11 +46,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 ### Templates
 
-#### Vanilla
-
-- [vit-singlefile-gzip](https://github.com/MillerRen/vite-singlefile-gzip.git) - Vite Starter template for embedded.
-- [11st-Starter-Kit](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Vite with Tailwind CSS and Alpine.js.
-
 #### Vue 3
 
 - [Vitesse](https://github.com/antfu/vitesse) - Opinionated starter template.
@@ -95,71 +90,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate) - Support SerialPort, SQLite3 and node C/C++ addons.
 - [Vitalis](https://github.com/Edsonalencar/Vitalis-template) - Vite / Vue 3 / Vue Router 4 / TypeScript / Tailwind CSS / ESlint / Prettier.
 
-#### Vue 2
-
-- [vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
-- [admin-base-tmpl](https://github.com/artskin/admin-base-tmpl) - Basic admin template using Vue2, TypeScript, Element UI.
-- [vite-ts-vue2-todo](https://github.com/nabaonan/todos-action/tree/master/vue2-vite-ts) - Vue2 + ts + Vue-Router3 + Pinia1 + Composition API.
-- [vite-vue2-typescript](https://github.com/byoungd/vite-vue2-typescript) - Vue2 TypeScript starter template using composition-api.
-- [vite-vue2-mpa-template](https://github.com/selene-y/vite-vue2-mpa-template) - A multi-page application template using Vue2.
-- [vite-vue2-ts-starter](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript startar template usng vue-property-decorator, vue-router, Vuex.
-- [vite-vue2-ts-vuetify-starter](https://github.com/logue/vite-vue2-vuetify-ts-starter) - It is the above vite-vue2-ts-starter with Vuetify and its optimized settings. Includes basic templates.
-- [vite-vue2-simple-starter](https://github.com/ryuhojin/vite-vue2-simple-starter) - Vue2 + Vue Router + Vuex + Axios Api + SASS With Sample Code.
-
-#### React
-
-- [vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter) - React, Tailwind CSS, TypeScript and Electron.
-- [vite-electron-esbuild-stater](https://github.com/jctaoo/vite-electron-esbuild-starter) - Starter template with React, TypeScript, Electron and esbuild.
-- [Vitamin](https://github.com/wtchnm/Vitamin) - React TypeScript, TailwindCSS, SPA + PWA, Cypress and CI.
-- [vite-reactts-eslint-prettier](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
-- [vite-reactts-antd-starter](https://github.com/asurraa/react-vite2-ts-antd) - React, TypeScript, Antd.
-- [react-vite-admin](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
-- [vite-template-react](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
-- [vitejs-template-react-rescript](https://github.com/jihchi/vitejs-template-react-rescript) - React + ReScript.
-- [vite-react-rtkq](https://github.com/PrinceRajRoy/vite-react-rtkq) - A React + Redux Toolkit Query starter template with opt-in TypeScript.
-- [vite-react-quick](https://github.com/pohunchn/vite-react-quick) - Vite + React + React-router-dom + TypeScript Quick Template.
-- [vite-template-react-plus](https://github.com/0x219/vite-template-react-plus) - Vite + React + TypeScript + ESLint + Prettier.
-- [vite-boilerplate](https://github.com/lmachens/vite-boilerplate) - Full-Stack template with TypeScript, React, Storybook and Express.
-- [reactjs-vite-tailwindcss-boilerplate](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - React, TypeScript, Jest, Testing Library, Tailwind CSS, ESLint and Prettier.
-- [Tropical](https://github.com/bensmithett/tropical) - React, Storybook, MDX, Fela, SSR prerendering, and [islands architecture](https://www.npmjs.com/package/tropical-islands).
-- [vite-plugin-react-refresh](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-react-refresh) - Provide enhancements for [@vitejs/plugin-react-refresh](https://www.npmjs.com/package/@vitejs/plugin-react-refresh).
-- [vite-reactts17-chakra-jest-husky](https://github.com/The24thDS/vite-reactts17-chakra-jest-husky) - React 17, TypeScript, Chakra UI, Jest, ESLint, Prettier, Husky.
-- [react-ts-vite-template](https://github.com/fabien-ml/react-ts-vite-template) - React, TypeScript, Jest, Testing Library, Cypress, ESLint, Prettier, Husky.
-- [vite-reactts-tailwind-rtk-eslint](https://github.com/IsaiaPhiliph/vite-reactts-tailwind-rtk-eslint) - React, TypeScript, Tailwind CSS, Redux Toolkit, eslint.
-- [vite-react-tailwind-template](https://github.com/Innei/vite-react-tailwind-template) - React 17, TypeScript, Jest, ESLint, Prettier, Husky, Tailwind CSS, PostCSS, pnpm.
-- [vite-react-ssr](https://github.com/Innei/vite-react-ssr) - Server Side Rendering project template base on Vite + React + React-router-dom, Tailwind CSS 2 JIT inside.
-- [vite-material-ui](https://github.com/christopher-caldwell/vite-material-ui) - Material UI v5, TypeScript, Dark mode toggle.
-- [stravital](https://github.com/rizkimcitra/stravital) - React 17 + Vite + `react-router-dom` + `react-icons` + Prop-Types + Tailwind CSS with JIT.
-- [vite-react-ts-tailwind-firebase-starter](https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter) - Starter using Vite + React + TypeScript + Tailwind CSS (daisyUI) + Firebase (v9) + Prettier + ESLint.
-- [vite-react-express-boilerplate](https://github.com/joeynguyen/vite-react-express-boilerplate) - Full-Stack template with React and Express.
-- [vite-react-express-docker-boilerplate](https://github.com/joeynguyen/vite-react-express-docker-boilerplate) - Full-Stack template with Docker, React, and Express.
-- [vite-react-ts-starter](https://github.com/uchihamalolan/vite-react-ts) - React, TypeScript, Jest, ESLint, Prettier, TailwindCSS, Husky, Conventional Commits.
-- [vite-react-tailwind-jit](https://github.com/KrishGarg/vite-react-tailwind-jit-template) - React with TailwindCSS configured.
-- [vital](https://github.com/jvidalv/vital) - React, TypeScript, Tailwind (JIT), CSS-Modules, Jest, Atomic Design, Prettier, Husky, Commit-lint.
-- [vite-react-electron](https://github.com/caoxiemeihao/vite-react-electron) - Vite + React + Electron template.
-- [vite-react-vendor-split](https://github.com/KrishGarg/vite-react-vendor-split-template) - React + TypeScript + Vendor Chunk Splitting.
-- [vite-react-stitches-radix](https://github.com/xixixao/vite-react-stitches-radix) - React, ESLint, Stitches, Radix.
-- [vite-react-ts-ghactions-template](https://github.com/pchmn/vite-react-ts-ghactions-template) - React, TypeScript, Jest + React Testing Library, GitHub Actions + GitHub Pages, ESLint, Prettier, Husky, Commitlint.
-
-#### Svelte
-
-- [sttv](https://github.com/srmullen/sttv) - Svelte, Tailwind CSS, TypeScript.
-- [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
-- [svelte-vite-starter](https://github.com/baileyherbert/svelte-vite-starter) - Next template for Svelte, TypeScript, SCSS, Babel, and HMR.
-- [svelte kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
-
-#### Elm
-
-- [vite-elm-template](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications.
-
-#### Mithril
-
-- [mithril-vite-starter](https://github.com/ArthurClemens/mithril-vite-starter) - Template for Mithril projects.
-- [mithril-ts-vite-starter](https://github.com/ArthurClemens/mithril-ts-vite-starter) - Template for Mithril projects with TypeScript.
-
-#### Others
-
-- [P5.js Starter Template](https://github.com/makinteract/p5js-vite) - Templates for creating P5.js sketches.
 
 ## Plugins
 
@@ -312,8 +242,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - ![v3] [@vitejs/plugin-vue](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue 3 support.
 - ![v3] [@vitejs/plugin-vue-jsx](https://github.com/vitejs/vite/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
-- ![v2] [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
-- ![v2] [unplugin-vue2-script-setup](https://github.com/antfu/unplugin-vue2-script-setup) - Enabling `<script setup>` syntax for Vue 2.
 
 #### Routing
 
@@ -324,7 +252,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - ![v23] [vite-plugin-md](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
 - ![v3] [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - Markdown Code block as Vue Preview components.
 - ![v3] [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
-- ![v2] [vite-plugin-vue2-svg](https://github.com/pakholeung37/vite-plugin-vue2-svg) - Load SVG files as Vue components.
 
 #### SSG
 
@@ -339,61 +266,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - ![v23] [unplugin-vue-components](https://github.com/antfu/unplugin-vue-components) - On-demand components auto-importing.
 - ![v3] [vite-plugin-vue-gql](https://github.com/wheatjs/vite-plugin-vue-gql) - GraphQL Tags for your Vue SFC.
-- ![v2] [vite-plugin-vue2-suffix](https://github.com/williamyorkl/vite-plugin-vue2-suffix) - Compatible without '.vue' suffix.
 
 <!--lint enable awesome-list-item-->
-
-<hr>
-
-### React
-
-#### Official
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite/tree/main/packages/plugin-react) - The all-in-one Vite plugin for React projects.
-
-#### Presets
-
-- [vite-preset-react](https://github.com/puruvj/vite-preset-react) - All in one preset for your React app - HMR, Automatic React inject, removal of DevTools in prod.
-
-#### Loaders
-
-- [vite-plugin-svgr](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
-- [vite-plugin-mdx](https://github.com/brillout/vite-plugin-mdx) - Use MDX for your Vite app, with support for MDX v1, MDX v2, HMR, and SSR.
-
-#### Transformers
-
-#### Framework
-
-- [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
-- [@vitjs/vit](https://github.com/vitjs/vit) - React application framework inspired by UmiJS.
-
-<!--lint ignore double-link-->
-
-> 💡 SSR frameworks are listed at [SSR - Frameworks](#ssr).
-
-<hr>
-
-### Svelte
-
-#### Integrations
-
-- [vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
-
-<hr>
-
-### Solid
-
-#### Integrations
-
-- [vite-plugin-solid](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
-
-<hr>
-
-### Elm
-
-#### Integrations
-
-- [vite-plugin-elm](https://github.com/hmsk/vite-plugin-elm) - A plugin that enables you to compile an Elm module.
 
 <hr>
 
